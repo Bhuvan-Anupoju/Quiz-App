@@ -1,5 +1,5 @@
 
-# React Quiz App
+# 🧠 React Quiz App
 
 A simple and interactive quiz application built using React JS and CSS. The app allows users to answer multiple-choice questions by selecting one correct option from four available choices and displays the final score at the end of the quiz.
 #### 🔰 Overview
